@@ -1,1 +1,1 @@
-![demo](https://raw.githubusercontent.com/Abhijith14/SnakeGame-ML/master/image.gif)
+![demo](https://raw.githubusercontent.com/BUDDY-Developer/ConstructionPage/master/readme_assets/demo.png)
